@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ecommerce_Project</string>
+    <string name="title"><font color="#265102">Smash</font> <font color="#ff1700">Cart</font></string>
+    <string name="intro"><font color="#6d0b0b">Shop fashion, electronics </font>, and more in one place.\n Unlock exclusive deals and discounts!\nWelcome to <font color="#0b6d58"> Smash Cart\nHappy Shopping! </font></string>
+    <string name="intro_sub"><font color="#6d0b0b">Get Personalized recommendations </font>\n <font color="#0b6d58"> ,Enjoy Fast Free Shipping! </font></string>
+    <string name="button_signup">Already have an account ? <font color="#6d0b0b">Login</font></string>
+    <string name="first_slide">Choose Your products</string>
+    <string name="second_slide">Fast delivery</string>
+    <string name="third_slide">Good service</string>
+    <string name="desc1">Discover a world of amazing products tailored just for you! Whether you\'re looking for the latest fashion, cutting-edge gadgets, or everyday essentials, we have it all. With a seamless shopping experience, top-rated brands, and unbeatable deals, choosing the right product has never been easier.</string>
+    <string name="desc2"><font color="#6d0b0b">Lightning-Fast Delivery – Get Your Orders in No Time! </font>\n Why wait when you can get your favorite products delivered at record speed? With our super-fast delivery service, your orders reach your doorstep in no time.</string>
+    <string name="desc3"><font color="#6d0b0b">Exceptional Service, Just for You! </font> \n We believe that great shopping comes with great service! From easy browsing to quick checkouts and seamless delivery, we ensure a hassle-free experience.💖✨</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name = "open_nav">open nav</string>
+    <string name = "close_nav">cpen nav</string>
+
+
+</resources>

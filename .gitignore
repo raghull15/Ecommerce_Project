@@ -1,0 +1,22 @@
+# Ignore Android Studio and Gradle files
+*.iml
+.gradle
+/local.properties
+/.idea/
+/build/
+/captures
+.cxx
+.externalNativeBuild
+.DS_Store
+
+# Ignore workspace and project-specific settings
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Ignore sensitive files (local properties and API keys)
+local.properties
+app/src/main/java/com/example/ecommerce_project/adapter/EmailSender.java
